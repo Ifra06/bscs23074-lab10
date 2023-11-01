@@ -7,7 +7,7 @@
  }
  nav {
   height: 80px;
-  background: #7d593c;
+  background: #3c6f7d;
   display: flex;
   justify-content:space-between;
   align-items:center;
@@ -64,7 +64,7 @@ buttom{
   font-size: 1rem;
   border:none;
   color:#a17843
-  background:black;
+  background: black;
   cursor:ponter;
   border-radius:50px;
 
